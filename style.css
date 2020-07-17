@@ -33,3 +33,9 @@
 .box p{
  white-space:nowrap; 
 }
+
+.karebu-edit{
+  color: #c52929;
+  font-weight: bold;
+  text-align: center;
+}
